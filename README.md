@@ -1,0 +1,1 @@
+# Technical-Analysis-of-EUR-INR-Currency-Data
